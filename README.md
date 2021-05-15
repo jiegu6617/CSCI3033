@@ -1,1 +1,6 @@
-# CSCI3033
+# State Farm Distracted Driver Detection
+
+The goal of this project is to classify distracted driver posture as a part of the human action recognition framework. Distracted driving involves any activity that takes away the driver’s attention from the road like texting, talking on the phone, operating the radio, reaching behind, etc. Numerous car accidents have been reported that were caused by distracted driving. The National Highway Traffic Safety Administration (NHTSA) reported that 36,750 people died in motor vehicle crashes in 2018, and 12% of it was due to distracted driving [1]. We believe by improving the performance of detecting drivers’ distracted actions through computer vision, it will make it easier to prevent accidents caused by it. In this project, we try to build a deep learning model which automatically detects the distracted activity of the drivers in a timely manner and send alerts.
+
+All the models we have tried have been upload as the ipynb files, and we have named these files as our model name. Besides, we have files for data loading, model evaluation, and results plotting.  We also have slides used for presentation, which is named as final presentation.pptx. The link for the presetation is https://drive.google.com/file/d/1ZHb8B82S1ZJC3WlgEMSr9pGtzDJ0V5eO/view?usp=sharing. More details about this project and the whole process are inclued in our final report 'Distracted Driver Detection Report.pdf'.
+
